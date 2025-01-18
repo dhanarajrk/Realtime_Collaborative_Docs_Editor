@@ -1,6 +1,3 @@
-I'll update the README with your specific repository URL and screenshot path.
-
-```markdown
 # Real-time Collaborative Document Editor
 
 A real-time collaborative document editor built with React, Socket.IO, and Quill editor. Multiple users can edit documents simultaneously with changes synced in real-time.
