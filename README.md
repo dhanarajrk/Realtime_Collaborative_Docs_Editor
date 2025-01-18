@@ -2,6 +2,11 @@
 
 A real-time collaborative document editor built with React, Socket.IO, and Quill editor. Multiple users can edit documents simultaneously with changes synced in real-time.
 
+## Screenshots
+
+![Editor Interface](screenshot.JPG)
+*Real-time document editing interface*
+
 ## Features
 
 - Real-time text synchronization
@@ -64,12 +69,6 @@ Create a `.env` file in the server directory with the following variables:
 MONGODB_URI=your_mongodb_connection_string
 PORT=3001 (optional)
 ```
-
-## Screenshots
-
-![Editor Interface](screenshot.JPG)
-*Real-time document editing interface*
-
 ## Technical Stack
 
 ### Frontend
